@@ -12,7 +12,7 @@ This repository contains a simple Port Scanner script. A Port Scanner is a tool 
 ## Usage
 1. Clone the repository:
 
-git clone https://github.com/yourusername/port-scanner.git
+git clone https://github.com/Emirrbozkurt/port-scanner.git
 
 2. Navigate to the project folder and run the script:
 
